@@ -14,6 +14,7 @@ Un programador en busca de oportunidades y en constante evolución, graduado en 
 - Control de Versiones: Git, GitHub.
 - Bases de Datos: Relacionales, SQL.
 - Lenguaje de Programación: Java.
+- Metodologías Ágil: Scrum
 - Sistemas ERP-CRM
 
 ## 🛠️ Proyectos Destacados
