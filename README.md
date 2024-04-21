@@ -1,5 +1,9 @@
-# ¡Hola, soy Pablo! 👋
-Un programador en busca de oportunidades y en constante evolución, graduado en Desarrollo de Aplicaciones Multiplataforma en Linkia FP y en la búsqueda de mi primer empleo como programador frontend.
+¿Sabías que el 90% de las decisiones empresariales se basan en datos, pero solo el 50% de las empresas sabe aprovechar todo el potencial de sus datos disponibles?
+
+Hola! Soy Pablo Ramirez consultor SAP de Business Intelligence y ayudo a las empresas a optimizar sus procesos, identificar oportunidades de crecimiento y tomar mejores decisiones estratégicas basadas en el uso eficiente de sus datos.
+
+Graduado en Desarrollo de Aplicaciones Multiplataforma con formación en herramientas de Business Intelligence y sólidos conocimientos en el ecosistema JavaScript.
+
 
 ## 👨‍💻 Sobre Mí
 
