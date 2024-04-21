@@ -4,7 +4,17 @@ Un programador en busca de oportunidades y en constante evolución, graduado en 
 ## 👨‍💻 Sobre Mí
 
 - 🎓 Graduado en Desarrollo de Aplicaciones Multiplataforma.
-- 📘 Cursos adicionales: JavaScript, React y React Native en Udemy.
+- 📘 Cursos adicionales en Udemy:
+  -  JavaScript
+  -  React
+  -  React Native en Udemy
+  
+
+- 📘 Cursos adicionales en Platzi:
+  -  Business Intelligence: Utilidad y Áreas de Oportunidad.
+  -  Principios de Visualización de Datos para Business Intelligence.
+  -  Curso Profesional de Scrum.
+  -  Pensamiento Lógico: Algoritmos y Diagramas de Flujo.                 
 
 ## 🚀 Habilidades
 
