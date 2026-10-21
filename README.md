@@ -1,51 +1,41 @@
-## **¿Sabías que el 90% de las decisiones empresariales se basan en datos, pero solo el 50% de las empresas sabe aprovechar todo el potencial de sus datos disponibles?**
+# ¡Hola! Soy Pablo Ramírez 👋
 
+Desarrollador Web Full Stack (especializado en el stack MERN: MongoDB, Express, React, Node.js) y graduado en Desarrollo de Aplicaciones Multiplataforma (DAM). 
 
+Cuento con una sólida trayectoria previa como Consultor SAP (ABAP, BW, BPC), lo que me aporta una visión de negocio estructurada, capacidad analítica para la resolución de problemas complejos y experiencia de trabajo en entornos empresariales.
 
-Hola! Soy Pablo Ramirez consultor SAP de Business Intelligence y ayudo a las empresas a optimizar sus procesos, identificar oportunidades de crecimiento y tomar mejores decisiones estratégicas basadas en el uso eficiente de sus datos.
+---
 
-Graduado en Desarrollo de Aplicaciones Multiplataforma con formación en herramientas de Business Intelligence y sólidos conocimientos en el ecosistema JavaScript.
+## 🛠️ Stack Tecnológico
 
+- **Frontend:** JavaScript (ES6+), TypeScript, React, Vite, HTML5, CSS3, Tailwind CSS.
+- **Backend & BD:** Node.js, Express, MongoDB, SQL.
+- **Herramientas & Entorno:** Git, GitHub, Linux (Ubuntu Studio), VS Code, npm.
+- **Metodologías:** Scrum, Gitflow / Conventional Commits.
 
-## 👨‍💻 Sobre Mí
+---
 
-- 🎓 Graduado en Desarrollo de Aplicaciones Multiplataforma.
-- 📘 Cursos adicionales en Udemy:
-  -  JavaScript
-  -  React
-  -  React Native en Udemy
-  
+## 🚀 Proyectos Destacados
 
-- 📘 Cursos adicionales en Platzi:
-  -  Business Intelligence: Utilidad y Áreas de Oportunidad.
-  -  Principios de Visualización de Datos para Business Intelligence.
-  -  Curso Profesional de Scrum.
-  -  Pensamiento Lógico: Algoritmos y Diagramas de Flujo.                 
+### 🎸 [GuitarLA - Tienda de Guitarras](https://pabloramirezcasas.github.io/guitarla-TS/) | [Repositorio](https://github.com/PabloRamirezCasas/guitarla-TS)
+Aplicación e-commerce desarrollada con **React, TypeScript y Vite**.
+- Gestión de estado del carrito de compras con persistencia en `localStorage`.
+- Tipado estricto con TypeScript para componentes y datos del catálogo.
+- Diseño adaptativo styled con CSS / Tailwind.
 
-## 🚀 Habilidades
+---
 
-- HTML, CSS, JavaScript.
-- Frameworks y Bibliotecas: React, React Native.
-- Estilos: Tailwind CSS.
-- Control de Versiones: Git, GitHub.
-- Bases de Datos: Relacionales, SQL.
-- Lenguaje de Programación: Java.
-- Metodologías Ágil: Scrum
-- Sistemas ERP-CRM
+## 📘 Formación y Certificaciones
 
-## 🛠️ Proyectos Destacados
+- **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**
+- **Desarrollo Web Full Stack (MERN)** | Formación continua
+- **Metodologías Ágiles:** Curso Profesional de Scrum (Platzi)
+- **Cursos complementarios:** React, React Native, JavaScript Avanzado
 
-### [Tienda Online](https://tiendaonlinepablodev.netlify.app/) | [Repositorio en GitHub](https://github.com/PabloRamirezDeveloper/TiendaOnline)
-Una aplicación que simula una tienda online, construida con HTML/CSS y JavaScript y diseñada para proporcionar una experiencia de compra interactiva.
+---
 
-### [Programa Tareas](https://programatareas.netlify.app/) | [Repositorio en GitHub](https://github.com/PabloRamirezDeveloper/programa_tareas_react)
-Una aplicación para llevar el seguimiento de tareas pendientes en una empresa, desarrollada con React y Tailwind CSS. Mejora la eficiencia en la gestión de tareas pendientes.
+## 📫 Contacto
 
-### [Notas React Native](https://github.com/PabloRamirezDeveloper/notas_react_native/raw/main/notasApp.apk) | [Repositorio en GitHub](https://github.com/PabloRamirezDeveloper/notas_react_native)
-Una aplicación móvil para Android, construida con React Native que simula un sencillo Block de Notas. Puedes descargar la APK directamente [aquí](https://github.com/PabloRamirezDeveloper/notas_react_native/raw/main/notasApp.apk).
-
-
-## 📫 Cómo Contactarme
-
-- LinkedIn: [Pablo Ramírez](https://www.linkedin.com/in/pabloramirezcasas)
-- Correo Electrónico: [ramirezcasaspablo@gmail.com](mailto:ramirezcasaspablo@gmail.com)
+- **LinkedIn:** [Pablo Ramírez Casas](https://www.linkedin.com/in/pabloramirezcasas)
+- **GitHub:** [PabloRamirezCasas](https://github.com/PabloRamirezCasas)
+- **Correo Electrónico:** [ramirezcasaspablo@gmail.com](mailto:ramirezcasaspablo@gmail.com)
